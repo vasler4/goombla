@@ -10,6 +10,8 @@ Do not use this maliciously as there are many reprocussions for cybercrime.
 
 Also the AntiDump is pasted from somewhere
 
+PS: THIS IS FOR DISCORD, THERE IS NO GUI, MAKE A BOT BUDDY
+
 # Setup Guide:
 
 *Remember to not use this for malicious purposes.*
